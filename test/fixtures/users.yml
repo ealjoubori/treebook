@@ -3,4 +3,9 @@ essam:
   last_name: "Al Joubori"
   email: "essam.aljoubori@gmail.com"
   profile_name: "ealjoubori"
- 
+
+jim:
+   first_name: "Jim"
+   last_name: "Brady"
+   email: "jim.brady@gmail.com"
+   profile_name: "jimbrady"
