@@ -79,4 +79,6 @@ class StatusesControllerTest < ActionController::TestCase
 
     assert_redirected_to statuses_path
   end
+
+  
 end
